@@ -1,1 +1,1 @@
-My name is CueM6. I am a college student proficient in Python and learning Bash.
+My name is Noble. I am a college student proficient in Python and learning Bash.
